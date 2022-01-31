@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,aAAc,CACd,WAAY,CACZ,YAAa,CACb,wBAAyB","file":"main.6b416f37.chunk.css","sourcesContent":["body {\n  margin: 0 auto;\n  width: 600px;\n  padding: 20px;\n  background-color: #caccc2;\n}\n"]}
